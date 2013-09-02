@@ -1,16 +1,16 @@
 # Readablety
 
-Readablety is a fork of Readability.
-It is derived from source code found at [arc90labs-readability] repository.
+Readablety is a fork of Readability derived from source code found at 
+[arc90labs-readability][arc90_svn] repository. (See also: [Readability][arc90_labs])
 
-See also: [Readability][arc90_labs]
+## Why this fork?
 
-## How it works?
+Readablility tools allows to create a clearified version of the current web page.
+The problem with Readability is it modifies the current page erasing the original
+content and placing the new, and more readable version of the web.
 
-Readable creates an overlay and shows a clearified version of the current web page.
-The Readablety fork is a simplified version which offers a function that returns
-the clearified web page version, but does not create any overlay, menu, etc.
-
+Readablety offer the core function of Readability responsible to get the content
+of the web page in a readable format.
 
 [arc90_svn]: https://code.google.com/p/arc90labs-readability/
 [arc90_labs]: http://lab.arc90.com/2009/03/02/readability/
