@@ -12,5 +12,9 @@ content and placing the new, and more readable version of the web.
 Readablety offer the core function of Readability responsible to get the content
 of the web page in a readable format.
 
+## License
+
+Readablety follow the Apache License, Version 2.0 from readability
+
 [arc90_svn]: https://code.google.com/p/arc90labs-readability/
 [arc90_labs]: http://lab.arc90.com/2009/03/02/readability/
